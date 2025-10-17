@@ -85,6 +85,38 @@ git help --all
 git help push
 ```
 
+REPAIR
+```
+Modificación en Working Directory
+Crear archivo3.txt desde VSC
+Escribir: linea1
+git status
+git clean (error)
+git clean -f
+Crear archivo3.txt
+git status (untrateked)
+git add archivo3.txt
+git commit -m "Haciento commmmit para hcer track del archivo"
+git status
+Escribir: linea2
+git status
+Crear archivo4.txt 
+Escribir: linea1
+git status
+(Git clean solo limpia los untracked file)
+git clean -n   (te dice lo que borra)
+git clean -f
+git status
+git restore archivo3.txt
+git status
+Ver que linea2 archivo3.txt había sido eliminado
+Editar archivo3.txt y crear archivo4.txt con VSC 
+Gestion de working area con extensión VSC
+```
+```
+De Staging Area a Working Directory
+git reset
+```
 
 
 
