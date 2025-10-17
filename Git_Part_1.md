@@ -46,6 +46,7 @@ git status
 git commit -m "primer codigo"
 git status
 Edito archivo1 y 2
+git status
 git add archivo2.txt
 git status
 git commit   (vim agrego comentario y salgo)
@@ -83,6 +84,7 @@ git help
 git help --all
 git help push
 ```
+
 
 
 
