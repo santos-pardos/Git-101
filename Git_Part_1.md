@@ -71,19 +71,20 @@ git status
 git add archivo2.txt
 git commit -m "arreglando texto"
 (ver que no sale en github esta en local)
-git push origin master
+git push origin main
 ```
 
 Modificar archivo.txt en VSC
 ```
 git log (3 vs 4 en VSC)
-git pull origin master
+git pull origin main
 git log
 
 git help
 git help --all
 git help push
 ```
+
 
 
 
