@@ -62,7 +62,7 @@ Explicar las lineas
 ```
 git remote add origin https://github.com/santos-pardos/PruebaCursoGit.git
 gir remote -v
-git push -u origin master  (validarse en GitHub)
+git push -u origin main (validarse en GitHub)
 ```
 Explicar ficheros, logs, commits.
 Cambiamos archivo2 en VSC
@@ -74,7 +74,7 @@ git commit -m "arreglando texto"
 git push origin main
 ```
 
-Modificar archivo.txt en VSC
+Modificar archivo.txt en Github
 ```
 git log (3 vs 4 en VSC)
 git pull origin main
@@ -84,6 +84,7 @@ git help
 git help --all
 git help push
 ```
+
 
 
 
