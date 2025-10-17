@@ -126,9 +126,10 @@ De Local Repository a Staging Area
 Hacer commmit con VSC extension y con linea de comando. Crear 5 commit
 En archivo4.txt agregar 5 lineas con 5 commits.
 git log
-git revert bf4b09f2fb1fe05df75d273f45495c46971d3d05
+git reset --hard bf4b09f2fb1fe05df75d273f45495c46971d3d05
 
 ```
+
 
 
 
