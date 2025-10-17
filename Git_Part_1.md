@@ -1,5 +1,5 @@
 ## Git
-# 3 Areas - Working Directory / Staging Area / Local Repository
+## 3 Areas - Working Directory / Staging Area / Local Repository
 ```
 git --version
 mkdir CursoGit
@@ -81,6 +81,7 @@ git help
 git help --all
 git help push
 ```
+
 
 
 
