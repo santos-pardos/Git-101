@@ -115,7 +115,19 @@ Gestion de working area con extensión VSC
 ```
 ```
 De Staging Area a Working Directory
-git reset
+modificar archivo.txt
+git add archivo.txt
+git status
+git restore --staged archivo.txt
+Modificar entre areas con VSC Extension
+```
+```
+De Local Repository a Staging Area
+Hacer commmit con VSC extension y con linea de comando. Crear 5 commit
+En archivo4.txt agregar 5 lineas con 5 commits.
+git log
+git revert bf4b09f2fb1fe05df75d273f45495c46971d3d05
+
 ```
 
 
